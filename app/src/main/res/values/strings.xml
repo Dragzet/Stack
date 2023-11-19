@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StackExample</string>
+    <string name="this_is_1_activity">THIS IS 1 ACTIVITY</string>
+    <string name="back">back</string>
+    <string name="to_2nd_activity">TO 2nd Activity</string>
+    <string name="to_3rd_activity">TO 3rd Activity</string>
+    <string name="to_1st_activity">TO 1st Activity</string>
+    <string name="this_is_2nd_activity">THIS IS 2nd ACTIVITY</string>
+    <string name="this_is_3rd_activity">THIS IS 3rd ACTIVITY</string>
+</resources>
